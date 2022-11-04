@@ -1,6 +1,6 @@
 # ADD-0001 Necesidad de sistema de eventos distribuido.
 
-* Status: proposed
+* Status: accepted
 * Date: 2022-11-02
 
 Technical Story: RF-12, RF-8
