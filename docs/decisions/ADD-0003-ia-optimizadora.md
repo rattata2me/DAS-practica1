@@ -1,6 +1,6 @@
 # IA Optimizadora
 
-* Status: proposed
+* Status: accepted
 * Date: 2022-11-07
 
 Technical Story: RF-6
@@ -17,7 +17,7 @@ Se requiere la elección de un algoritmo capaz de optimizar automáticamente el 
 
 ## Decision Outcome
 
-Chosen option: "Software utilizando redes neuronales y estrategias evolutivas.", because comes out best.
+Chosen option: "ADD-0003.2 Software de optimización a partir de modelo lineal.", because comes out best.
 
 ## Pros and Cons of the Options
 
