@@ -1,6 +1,6 @@
 # Envío de información entre sensores de la familia IoT
 
-* Status: proposed
+* Status: accepted
 * Date: 2022-11-22
 
 Technical Story: RF-11

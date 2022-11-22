@@ -1,6 +1,6 @@
 # Asignar órdenes de trabajo
 
-* Status: proposed
+* Status: accepted
 * Date: 2022-11-22
 
 Technical Story: RF-3, RF-4
@@ -19,7 +19,7 @@ Por lo tanto, necesitamos una CMMS.
 
 ## Decision Outcome
 
-Chosen option: "", because comes out best.
+Chosen option: "ADD-0007.3 Utilizar el software ERPNext", because comes out best.
 
 ## Pros and Cons of the Options
 
