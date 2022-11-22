@@ -7,7 +7,7 @@ Technical Story: RF-11
 
 ## Context and Problem Statement
 
-Se quiere enviar información entre los tres sensores de la familia IoT: que el primero envíe información al segundo y el segundo al tercero. 
+Se quiere enviar información entre los tres sensores IoT: que el primero envíe información al segundo y el segundo al tercero. Además queremos organizar los sensores en familias.
 
 ## Considered Options
 
